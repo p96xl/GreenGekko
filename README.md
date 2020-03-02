@@ -5,7 +5,7 @@ If you want to know more, go to mark-sch's fork
 - git clone https://github.com/mark-sch/gekko
 - cd gekko
 - npm install babel-loader babel-core babel-preset-env webpack --ignore-scripts
-- (For docker you can do sudo docker-compose build, and ignore steps below)
+- (For docker you can do 'sudo docker-compose build', and ignore steps below)
 - npm install 
 - cd exchange
 - npm install
