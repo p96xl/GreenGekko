@@ -42,5 +42,5 @@ services:
       - ./_postgresql:/var/lib/postgresql/data:rw
     environment:
       POSTGRES_DB: gekko
-      POSTGRES_USER: username
-      POSTGRES_PASSWORD: password
+      POSTGRES_USER: gg
+      POSTGRES_PASSWORD: gg
