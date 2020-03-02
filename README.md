@@ -2,8 +2,8 @@ If you want to know more, go to mark-sch's fork
 
 ## Getting started
 
-- git clone https://github.com/mark-sch/gekko
-- cd gekko
+- git clone https://github.com/p96xl/GreenGekko.git
+- cd GreenGekko
 - npm install babel-loader babel-core babel-preset-env webpack --ignore-scripts
 - (For docker you can do 'sudo docker-compose build', and ignore steps below)
 - npm install 
@@ -22,7 +22,7 @@ from time to time the exchange markets should be updated with a utility - to get
 - node update-kraken.js
 - node update-binance.js
 
-(postgresql experience required to previously setup postgres. Sample config assumes an existing db user gekkodbuser, pass 1234, with added role permission to createdb. PostgreSQL 9.5+ required.)
+- (postgresql experience required to previously setup postgres. Sample config assumes an existing db user gekkodbuser, pass 1234, with added role permission to createdb. PostgreSQL 9.5+ required.)
 
 See further info how to get started and how to setup postgresql from [crypto49er at youtube](https://www.youtube.com/watch?v=vIqe-EPAMeU)
 
