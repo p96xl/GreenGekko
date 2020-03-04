@@ -1,6 +1,6 @@
 If you want to know more, go to mark-sch's fork
 
-meant for UI, CLI is mostlikely broken
+meant for UI, CLI is most likely broken
 
 ## Getting started
 
