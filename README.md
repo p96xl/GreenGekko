@@ -1,5 +1,7 @@
 If you want to know more, go to mark-sch's fork
 
+meant for UI, CLI is mostlikely broken
+
 ## Getting started
 
 - git clone https://github.com/p96xl/GreenGekko.git
