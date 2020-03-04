@@ -5,3 +5,5 @@ config.js
 sample-config.js
 .git
 .gitignore
+
+_postgresql
