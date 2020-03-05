@@ -1,8 +1,5 @@
 FROM node:10
 
-ENV HOST localhost
-ENV PORT 3000
-
 # Create app directory
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
@@ -31,4 +28,4 @@ EXPOSE 3000
 RUN chmod +x /usr/src/app/docker-entrypoint.sh
 ENTRYPOINT ["/usr/src/app/docker-entrypoint.sh"]
 
-CMD ["--config", "config.js", "--ui"]
+CMD ["--ui"]
