@@ -57,7 +57,7 @@ config.sqlite = {
 config.postgresql = {
   path: 'plugins/postgresql',
   version: 0.1,
-  connectionString: 'postgres://gg:gg@localhost:5432', // if default port
+  connectionString: 'postgres://gg:gg@postgresql:5432', // if default port
   database: gekko, // if set, we'll put all tables into a single database.
   schema: 'public',
   dependencies: [{
