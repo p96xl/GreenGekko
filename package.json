@@ -1,6 +1,6 @@
 {
   "name": "gekko",
-  "version": "2020.0.68.289",
+  "version": "2020.0.68.289.UI",
   "description": "A crypto trading bot for auto trading at various exchanges",
   "keywords": [
     "trading",
@@ -49,7 +49,6 @@
     "semver": "5.4.1",
     "sqlite3": "^4.0.6",
     "stats-lite": "^2.0.4",
-    "talib": "^1.0.6",
     "tiny-promisify": "^0.1.1",
     "toml": "^2.3.0",
     "tulind": "^0.8.15",
