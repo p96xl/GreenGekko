@@ -18,7 +18,7 @@ const CONFIG = {
     port: 3000,
     path: '/'
   },
-  adapter: 'sqlite'
+  adapter: 'postgresql'
 }
 
 if(typeof window === 'undefined')
